@@ -34,6 +34,6 @@ Source coverage does not establish precision, truth, or generated-answer faithfu
 
 ## Submission status
 
-The executed notebook and reflections are saved here. The assignment also requires the original Northstar_RAG_Engineering_Dataset.zip in this repository; that file upload is pending before final AlmaBetter submission.
+The executed notebook, reflections, and original Northstar_RAG_Engineering_Dataset.zip are included. The ZIP SHA-256 is 25213cfa7c8ba41d65a0c2a11f677909c9d7f1f73d3be7e3eedc8fea23036c56, matching the exact file used in the tested Colab run.
 
 Do not commit API keys, model caches, generated index folders, or real employee records.
